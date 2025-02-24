@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frostyu-boop
+- 👋 Hi, I’m @frostyu-boop, Student in CS at the University of L'Aquila
 - 👀 I’m interested in Music, Anime and Coding
 - 🌱 I’m currently learning japanese, and basic programming languages
 - 💞️ I’m looking to collaborate on ...

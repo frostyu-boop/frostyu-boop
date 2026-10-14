@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frostyu-boop, Student in CS at the University of L'Aquila
-- 👀 I’m interested in Music, Calisthenics and Cybersecurity
-- 🌱 I’m currently learning japanese, and German
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: thefingerfrost@proton.me
 
